@@ -1,0 +1,7 @@
+
+# ignore these specific files
+db_connection_details.properties
+
+
+# ignore certain file extensions
+*.log
